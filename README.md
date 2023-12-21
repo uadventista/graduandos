@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/uadventista/graduandos/main/assets/img/Graficos%20Graduacion%20-%20Mail%20Fotos.png" alt="Portada de Graduación 2022"/>
+<img src="https://www.unach.cl/wp-content/uploads/2023/12/5o8373.webp" alt="Portada de Graduación 2023"/>
 
 # Programas de Graduandos (Cambio por año)
 Este proyecto es utilizado para fines educacionales. Este sitio web creado con HTML5 y CSS con la finalidad de entregar la información del programa "Graduandos" con el formato de "Linktree". 
@@ -6,4 +6,4 @@ Este proyecto es utilizado para fines educacionales. Este sitio web creado con H
 
 ### Autores y datos 🔧
 * **DIRCOM**
-* Fecha: 04/01/2023
+* Fecha: 21/12/2023
